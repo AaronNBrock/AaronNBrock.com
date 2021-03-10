@@ -15,7 +15,13 @@ tab1Target: education
 tab2Target: experience
 
 education:
-  - time: SEP 2019 - PRESENT
+  - time: NOV 2020 - PRESENT
+    content: >
+      #### Technical Presales Engineer, SADA
+      
+      Prototype and lead the deployment of scalable Google Cloud Platform (GCP) architectures
+      
+  - time: SEP 2019 - NOV 2020
     content: >
       #### DevOps Consultant, Contino
 
